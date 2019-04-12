@@ -1,0 +1,1 @@
+Type Script version of Kent Dodds [The State Reducer Pattern with React Hooks](https://kentcdodds.com/blog/the-state-reducer-pattern-with-react-hooks).
